@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\LINQTests\LINQTests\bin\Debug\LINQTests.exe.config
+C:\Users\sande\source\repos\LINQTests\LINQTests\bin\Debug\LINQTests.exe
+C:\Users\sande\source\repos\LINQTests\LINQTests\bin\Debug\LINQTests.pdb
+C:\Users\sande\source\repos\LINQTests\LINQTests\obj\Debug\LINQTests.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\LINQTests\LINQTests\obj\Debug\LINQTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\LINQTests\LINQTests\obj\Debug\LINQTests.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\LINQTests\LINQTests\obj\Debug\LINQTests.exe
+C:\Users\sande\source\repos\LINQTests\LINQTests\obj\Debug\LINQTests.pdb
